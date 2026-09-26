@@ -7,4 +7,4 @@ You will need to install Bepinex into nuclear option first. Bepinex is a modload
 
 Install Nikkorap's Blueprinter mod, which allows loading of arbitrary nuclear option assetbundles. https://github.com/nikkorap/NOBlueprinter-Releases/releases/latest
 
-Download the .dll file from this repository's Releases (on the right side of the centre panel where all the files are) and place it into Nuclear Option/Bepinex/Plugins.
+Download the .nobp file from this repository's Releases (on the right side of the centre panel where all the files are) and place it into Nuclear Option/Bepinex/Plugins.
