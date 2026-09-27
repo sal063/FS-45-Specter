@@ -1,7 +1,7 @@
 # FS-45-Specter
 A stealth Deep strike bomber mod for Nuclear Option
 
-Installation Guide / / / /
+Installation Guide
 
 You will need to install Bepinex into nuclear option first. Bepinex is a modloader. https://docs.google.com/document/d/16aRWcrkt89YEn9_THwe9Fxo7AYPLE9SYSab_Y929dvE
 
